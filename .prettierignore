@@ -1,0 +1,13 @@
+node_modules/
+.expo/
+.expo-bootstrap/
+.env.local/
+.env
+.env.*
+android/
+ios/
+dist/
+web-build/
+coverage/
+pnpm-lock.yaml
+expo-env.d.ts
